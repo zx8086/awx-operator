@@ -1,1 +1,3 @@
 # awx-operator
+
+yes
